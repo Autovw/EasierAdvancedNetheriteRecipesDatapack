@@ -1,1 +1,0 @@
-tellraw @a [{"text":"[Datapack]"},{"text":" Easier Advanced Netherite Recipes Datapack has been enabled","color":"green"}]
